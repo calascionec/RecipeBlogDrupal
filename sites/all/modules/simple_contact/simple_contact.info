@@ -1,0 +1,4 @@
+name = Simple Contact
+description = Changes default settings of the contact form
+package = Contact Support Modules
+core = 7.x
