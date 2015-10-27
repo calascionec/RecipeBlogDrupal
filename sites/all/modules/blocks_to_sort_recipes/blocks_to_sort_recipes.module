@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Blocks to sort recipes feature.
+ */
+
+include_once 'blocks_to_sort_recipes.features.inc';
