@@ -1,0 +1,4 @@
+name = Simple Content Type
+description = Changes default settings of the custom content types form
+package = Custom Content Tyep Support Modules
+core = 7.x
