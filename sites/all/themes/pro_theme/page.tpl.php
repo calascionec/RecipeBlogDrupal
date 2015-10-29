@@ -22,8 +22,10 @@
 
   <div class="body-wrap">
     <div class="body">
-      <div class="page-content"><?php print render($page['content']); ?></div>
-      <div class="page-right"><?php print render($page['sidebar_right']); ?></div>
+        <div class="page">
+          <div class="page-content"><?php print render($page['content']); ?></div>
+          <div class="page-right"><?php print render($page['sidebar_right']); ?></div>
+        </div>
     </div>
   </div>
 
