@@ -1,0 +1,14 @@
+<?php
+
+function follow_extend_follow_networks_alter(&$networks, $uid = 0) {
+
+  $networks[$uid]['drupal'] = array(
+    'title' => t('Drupal.org'),
+    'domain' => 'drupal.org',
+  );
+
+  $networks[$uid]['github'] = array(
+    'title' => t('Github'),
+    'domain' => 'github.com',
+  );
+}

@@ -1,0 +1,14 @@
+name = Pro Theme
+description = Pro Theme follow along from youtube
+core = 7.x
+
+
+stylesheets[all][] = template.css
+regions[slideshow] = Slideshow
+regions[content_header] = Content Header
+regions[content] = Content
+regions[content_footer] = Content Footer
+regions[sidebar_left] = Sidebar Left
+regions[sidebar_right] = Sidebar Right
+regions[sub_footer] = Sub Footer
+regions[help] = Help

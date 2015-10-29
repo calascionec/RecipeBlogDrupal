@@ -1,0 +1,6 @@
+name = My Garland
+description = My subtheme of Garland
+core = 7.x
+base theme = garland
+stylesheets[all][] = style.css
+stylesheets[all][] = my_garland.css

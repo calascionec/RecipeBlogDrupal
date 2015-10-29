@@ -1,0 +1,4 @@
+name = Follow Extend
+description = Extends the follow module
+package = Follow Extend
+core = 7.x
